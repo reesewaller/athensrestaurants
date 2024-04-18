@@ -1,0 +1,232 @@
+
+[
+    {
+      "id": 1,
+      "name": "The National",
+      "type": "Mediterranean",
+      "hours": {
+        "Monday": "11:30 AM - 10:00 PM",
+        "Tuesday": "11:30 AM - 10:00 PM",
+        "Wednesday": "11:30 AM - 10:00 PM",
+        "Thursday": "11:30 AM - 10:00 PM",
+        "Friday": "11:30 AM - 11:00 PM",
+        "Saturday": "10:00 AM - 11:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "price": "$$",
+      "address": "232 W Hancock Ave, Athens, GA 30601",
+      "phone": "(706) 549-3450",
+      "website": "https://thenationalrestaurant.com/",
+      "description": "Chic, airy bistro & bar serving creative Mediterranean dishes & drinks in a stylish space."
+    },
+    {
+      "id": 2,
+      "name": "The Last Resort Grill",
+      "type": "American",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 11:00 PM",
+        "Saturday": "10:00 AM - 11:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "price": "$$",
+      "address": "174-184 W Clayton St, Athens, GA 30601",
+      "phone": "(706) 549-0810",
+      "website": "https://www.lastresortgrill.com/",
+      "description": "Eclectic Southern cooking served in a converted music hall with outdoor seating & live entertainment."
+    },
+    {
+      "id": 3,
+      "name": "Cali N Tito's",
+      "type": "Latin American",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "Closed"
+      },
+      "price": "$",
+      "address": "1427 S Lumpkin St, Athens, GA 30605",
+      "phone": "(706) 227-9979",
+      "website": "https://www.calintitos.com/",
+      "description": "Lively, colorful joint offering Caribbean & Latin American eats, including tacos & Cuban sandwiches."
+    },
+    {
+      "id": 4,
+      "name": "Seabear Oyster Bar",
+      "type": "Seafood",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "5:00 PM - 10:00 PM",
+        "Wednesday": "5:00 PM - 10:00 PM",
+        "Thursday": "5:00 PM - 10:00 PM",
+        "Friday": "5:00 PM - 11:00 PM",
+        "Saturday": "12:00 PM - 11:00 PM",
+        "Sunday": "12:00 PM - 10:00 PM"
+      },
+      "price": "$$",
+      "address": "297 Prince Ave, Athens, GA 30601",
+      "phone": "(706) 850-4367",
+      "website": "https://seabearoysterbar.com/",
+      "description": "Compact spot featuring an oyster bar & seafood-focused dishes with a craft beer & cocktail list."
+    },
+    {
+      "id": 5,
+      "name": "Five & Ten",
+      "type": "American",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "5:30 PM - 9:00 PM",
+        "Thursday": "5:30 PM - 9:00 PM",
+        "Friday": "5:30 PM - 10:00 PM",
+        "Saturday": "10:00 AM - 2:00 PM, 5:30 PM - 10:00 PM",
+        "Sunday": "10:00 AM - 2:00 PM"
+      },
+      "price": "$$$",
+      "address": "1073 S Milledge Ave, Athens, GA 30605",
+      "phone": "(706) 546-7300",
+      "website": "https://www.fiveandten.com/",
+      "description": "Sophisticated New American cuisine in a cozy space with a full bar & wine list."
+    },
+      {
+        "id": 6,
+        "name": "The Grit",
+        "type": "Vegetarian",
+        "hours": {
+          "Monday": "11:00 AM - 9:00 PM",
+          "Tuesday": "11:00 AM - 9:00 PM",
+          "Wednesday": "11:00 AM - 9:00 PM",
+          "Thursday": "11:00 AM - 9:00 PM",
+          "Friday": "11:00 AM - 9:00 PM",
+          "Saturday": "11:00 AM - 9:00 PM",
+          "Sunday": "Closed"
+        },
+        "price": "$",
+        "address": "199 Prince Ave, Athens, GA 30601",
+        "phone": "(706) 543-6592",
+        "website": "https://thegrit.com/",
+        "description": "Casual, long-standing eatery with a health-conscious, all-vegetarian menu, plus vegan options."
+      },
+      {
+        "id": 7,
+        "name": "Taqueria Del Sol",
+        "type": "Mexican",
+        "hours": {
+          "Monday": "11:00 AM - 9:00 PM",
+          "Tuesday": "11:00 AM - 9:00 PM",
+          "Wednesday": "11:00 AM - 9:00 PM",
+          "Thursday": "11:00 AM - 9:00 PM",
+          "Friday": "11:00 AM - 10:00 PM",
+          "Saturday": "11:00 AM - 10:00 PM",
+          "Sunday": "Closed"
+        },
+        "price": "$",
+        "address": "334 Prince Ave, Athens, GA 30601",
+        "phone": "(706) 353-3890",
+        "website": "https://www.taqueriadelsol.com/",
+        "description": "Down-to-earth counter-service joint offering tacos, enchiladas & other Mexican fare, plus margaritas."
+      },
+      {
+        "id": 8,
+        "name": "Condor Chocolates",
+        "type": "Dessert",
+        "hours": {
+          "Monday": "11:00 AM - 9:00 PM",
+          "Tuesday": "11:00 AM - 9:00 PM",
+          "Wednesday": "11:00 AM - 9:00 PM",
+          "Thursday": "11:00 AM - 9:00 PM",
+          "Friday": "11:00 AM - 10:00 PM",
+          "Saturday": "10:00 AM - 10:00 PM",
+          "Sunday": "11:00 AM - 5:00 PM"
+        },
+        "price": "$$",
+        "address": "1658 S Lumpkin St, Athens, GA 30606",
+        "phone": "(706) 850-4802",
+        "website": "https://www.condorchocolates.com/",
+        "description": "Rustic-chic cafe & store offering Ecuadorian chocolates, desserts & hot drinks, plus a chocolate factory tour."
+      },
+      {
+        "id": 9,
+        "name": "The Place",
+        "type": "American",
+        "hours": {
+          "Monday": "11:00 AM - 9:00 PM",
+          "Tuesday": "11:00 AM - 9:00 PM",
+          "Wednesday": "11:00 AM - 9:00 PM",
+          "Thursday": "11:00 AM - 9:00 PM",
+          "Friday": "11:00 AM - 9:30 PM",
+          "Saturday": "11:00 AM - 9:30 PM",
+          "Sunday": "Closed"
+        },
+        "price": "$$",
+        "address": "229 E Broad St, Athens, GA 30601",
+        "phone": "(706) 549-9333",
+        "website": "https://theplaceathens.com/",
+        "description": "Old-fashioned, family-owned American diner serving hearty fare, including burgers & breakfast all day."
+      },
+      {
+        "id": 10,
+        "name": "Trappeze Pub",
+        "type": "Pub",
+        "hours": {
+          "Monday": "4:00 PM - 12:00 AM",
+          "Tuesday": "4:00 PM - 12:00 AM",
+          "Wednesday": "4:00 PM - 12:00 AM",
+          "Thursday": "4:00 PM - 12:00 AM",
+          "Friday": "4:00 PM - 1:00 AM",
+          "Saturday": "12:00 PM - 1:00 AM",
+          "Sunday": "12:00 PM - 12:00 AM"
+        },
+        "price": "$$",
+        "address": "269 N Hull St, Athens, GA 30601",
+        "phone": "(706) 543-8997",
+        "website": "https://www.trappezepub.com/",
+        "description": "Cozy, no-frills pub featuring a lengthy list of craft beers, plus pub grub & trivia nights."
+      },
+      {
+        "id": 11,
+        "name": "Saucehouse Barbeque",
+        "type": "Barbecue",
+        "hours": {
+          "Monday": "11:00 AM - 9:00 PM",
+          "Tuesday": "11:00 AM - 9:00 PM",
+          "Wednesday": "11:00 AM - 9:00 PM",
+          "Thursday": "11:00 AM - 9:00 PM",
+          "Friday": "11:00 AM - 10:00 PM",
+          "Saturday": "11:00 AM - 10:00 PM",
+          "Sunday": "11:00 AM - 9:00 PM"
+        },
+        "price": "$$",
+        "address": "830 W Broad St, Athens, GA 30601",
+        "phone": "(706) 363-3351",
+        "website": "https://www.saucehouse.com/",
+        "description": "Down-home joint for smoked meats & BBQ sides, with indoor & outdoor seating, plus local beer & wine."
+      },
+      {
+        "id": 12,
+        "name": "Automatic Pizza",
+        "type": "Pizza",
+        "hours": {
+          "Monday": "5:00 PM - 12:00 AM",
+          "Tuesday": "5:00 PM - 12:00 AM",
+          "Wednesday": "5:00 PM - 12:00 AM",
+          "Thursday": "5:00 PM - 12:00 AM",
+          "Friday": "5:00 PM - 2:00 AM",
+          "Saturday": "5:00 PM - 2:00 AM",
+          "Sunday": "5:00 PM - 12:00 AM"
+        },
+        "price": "$",
+        "address": "265 W Washington St, Athens, GA 30601",
+        "phone": "(706) 850-2018",
+        "website": ""
+      }
+    
+  ]
+  
